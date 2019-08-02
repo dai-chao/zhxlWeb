@@ -1,0 +1,48 @@
+/*
+* date:2019/6/25/15:30;
+* name:代超
+*
+* */
+
+header{
+    width: 100%;
+    height: 0.5rem;
+    box-sizing: border-box;
+    background: #fff;
+}
+.logo{
+    width: 50%;
+    height: 0.5rem;
+    float: left;
+    padding: 0.05rem;
+}
+.logo>img{
+    display: block;
+    height: 100%;
+    width: 1.18rem;
+}
+.menu{
+    width: 50%;
+    height: 0.5rem;
+    float: right;
+    position: relative;
+}
+.menu>a{
+    width: 100%;
+    height: 100%;
+}
+.menu>a>span{
+    position: absolute;
+    right: 10%;
+    top: 25%;
+    font-size: 0.25rem;
+    color: #000;
+}
+
+
+
+
+
+
+
+

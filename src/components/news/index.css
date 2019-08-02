@@ -1,0 +1,121 @@
+/*
+* date:2019/6/25/15:30;
+* name:代超
+*
+* */
+.news{
+    width: 100%;
+    height: 5.7rem;
+    background: #fff;
+    padding: 0 0.25rem 0 0.25rem;
+    overflow: hidden;
+}
+
+.news>h4{
+    width: 100%;
+    text-align: center;
+    font-size: 0.16rem;
+    margin-bottom: 0.2rem;
+    font-weight: bold;
+    color: #000;
+    word-break:keep-all;
+    overflow: hidden;
+    padding-top: 0.2rem;
+}
+.news>ul>a>li{
+    border: 1px solid #000;
+    width: 100%;
+    height: 1.04rem;
+    margin-bottom: 0.1rem;
+    padding: 0.1rem;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    overflow: hidden;
+}
+.news>ul>a>li>img{
+    display: block;
+    width: 0.9rem;
+    height: 0.84rem;
+    margin-right: 0.1rem;
+}
+.news>ul>a>li>.n2{
+    width: 0.84rem;
+}
+.news>ul>a>li>h2{
+    font-size: 0.14rem;
+    margin-top: 0.05rem;
+    color: #000;
+}
+.news>ul>a>li>h4{
+    font-size: 0.14rem;
+    position: absolute;
+    right: 5%;
+    bottom: 10%;
+    color: #000;
+}
+
+.news>ul{
+    position: relative;
+    width: 100%;
+}
+.news>ul>.more{
+    position: absolute;
+    font-size: 0.18rem;
+    padding: 0.05rem 0.4rem 0.05rem 0.4rem;
+    text-align: center;
+    background: #e54847;
+    left: 27%;
+    color: #fff;
+    border-radius: 0.1rem;
+    top: 4.6rem;
+}
+
+#chakan{
+    margin-bottom: 0.2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

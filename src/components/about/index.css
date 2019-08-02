@@ -1,0 +1,42 @@
+/*
+* date:2019/6/25/15:30;
+* name:代超
+*
+* */
+.about{
+    width: 100%;
+    height: 4.3rem;
+    background: #fff;
+    padding: 0.2rem 0.4rem 0rem 0.4rem;
+    /*margin-top: 0.08rem;*/
+}
+.about h4{
+    width: 100%;
+    text-align: center;
+    font-size: 0.16rem;
+    margin-bottom: 0.2rem;
+    font-weight: bold;
+    color: #000;
+    word-break:keep-all;
+}
+.about img{
+}
+.about h5{
+    margin-top: 0.2rem;
+    text-align: justify;
+    text-indent:0.3rem;
+    font-size: 0.15rem;
+    color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+

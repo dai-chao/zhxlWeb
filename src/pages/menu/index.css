@@ -1,0 +1,93 @@
+/*
+* date:2019/6/25/15:30;
+* name:代超
+*
+* */
+
+/*
+* date:2019/6/25/15:30;
+* name:代超
+*
+* */
+
+.me-header{
+    width: 100%;
+    height: 0.5rem;
+    box-sizing: border-box;
+}
+.me-header .logo{
+    width: 50%;
+    height: 0.5rem;
+    float: left;
+    padding: 0.05rem;
+}
+.me-header .logo>img{
+    display: block;
+    height: 100%;
+    width: 1.18rem;
+}
+.me-header .menu{
+    width: 50%;
+    height: 0.5rem;
+    float: right;
+    position: relative;
+}
+.me-header .menu>a{
+    width: 100%;
+    height: 100%;
+}
+.me-header .menu>a>span{
+    position: absolute;
+    right: 9%;
+    top: 25%;
+    font-size: 0.45rem;
+    color: #000;
+    font-weight: bold;
+    line-height: 0.2rem;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+.me{
+    width: 100%;
+    height: 2rem;
+    cursor: pointer;
+    /*padding: 0 0.2rem 0 0.2rem;*/
+
+
+}
+.me>ul>a>li{
+    font-size: 0.18rem;
+    text-align: center;
+    margin-top: 0.2rem;
+    border-bottom: 1px solid #c0b7b7;
+    padding-bottom: 0.2rem;
+    width: 100%;
+    color: #000;
+    font-weight: bold;
+    animation-duration: 2s;
+    animation-delay: 0s;
+    cursor: pointer;
+}
+.me>ul>a>li>a{
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-weight: bold;
+    animation-duration: 2s;
+    animation-delay: 0s
+}
+
+
+
+
+

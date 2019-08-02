@@ -1,0 +1,70 @@
+/*
+* date:2019/6/25/15:30;
+* name:代超
+*
+* */
+
+.product{
+    width: 100%;
+    height: 3.5rem;
+    background: #fff;
+    padding: 0.2rem;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.product>a>h4{
+    width: 100%;
+    text-align: center;
+    font-size: 0.16rem;
+    margin-bottom: 0.2rem;
+    font-weight: bold;
+    color: #000;
+    word-break:keep-all;
+    padding-top: 0.2rem;
+}
+.product>a>ul{
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.product>a>ul>li{
+    width: 48%;
+    height: 1.36rem;
+    border: 1px solid #000;
+    border-radius: 0.05rem;
+}
+.product>a>ul>li:nth-child(1){
+    background: #fff;
+}
+.product>a>ul>li:nth-child(2){
+    background: #fff;
+}
+.proul{
+    margin-top: 0.15rem;
+}
+.product>a>ul>li>img{
+    width: 0.7rem;
+    height: 0.6rem;
+    margin: 0 auto;
+    margin-top: 0.15rem;
+    margin-bottom: 0.1rem;
+}
+.product>a>ul>li>h2,h3{
+    font-size: 0.14rem;
+    text-align: center;
+    color: #000;
+}
+.product>a>ul>li>.wuyou{
+    margin-top: 0.2rem;
+}
+
+
+
+
+
+
+
+

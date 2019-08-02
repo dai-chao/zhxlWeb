@@ -1,0 +1,45 @@
+/*
+* date:2019/6/25/15:30;
+* name:代超
+*
+* */
+.footer{
+    width: 100%;
+    height: 0.5rem;
+    background: rgba(85, 85, 85, 1);
+    padding-top: 0.15rem;
+
+
+}
+.footer>a{
+
+    font-size: 0.13rem;
+    color: #fff;
+    text-align: center;
+    word-break:keep-all;
+    position: relative;
+    display: block;
+    padding-left: 10px;
+    cursor: pointer;
+}
+.footer>a img{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 19%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,122 @@
+/*
+* date:2019/6/25/15:30;
+* name:代超
+*
+* */
+.nav{
+    width: 100%;
+}
+.nav>h2{
+    width: 100%;
+    text-align: center;
+    font-size: 0.16rem;
+    margin-bottom: 0.05rem;
+    font-weight: bold;
+    color: #000;
+    margin-top: 0.3rem;
+    /*animation-duration: 2s;
+    animation-delay: 0s*/
+    overflow: hidden;
+}
+.nav>ul{
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    padding: 0.2rem;
+    width: 100%;
+}
+.nav>ul>a>li{
+    border: 1px solid #000;
+    width: 100%;
+    height: 1.04rem;
+    margin-bottom: 0.1rem;
+    padding: 0.1rem;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+
+    animation-duration: 2s;
+    animation-delay: 0s
+}
+.nav>ul>a>li .news-right{
+    width: 2.2rem;
+
+    float: left;
+    overflow: hidden;
+}
+.nav>ul>a>li .news-right h2{
+
+    font-size: 0.16rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: black;
+}
+.nav>ul>a>li>img{
+    width: 0.84rem;
+    height: 0.84rem;
+    display: block;
+    float: left;
+    /*margin-right: 0.1rem;*/
+}
+/*.nav>ul>a>li>h2{*/
+/*    font-size: 0.16rem;*/
+/*    margin-top: 0.02rem;*/
+/*    color: #000;*/
+/*    overflow: hidden;*/
+/*    white-space: nowrap;*/
+/*    text-overflow: ellipsis;*/
+/*    width: 100%;*/
+/*    height: 0.2rem;*/
+/*    margin-left: 0.12rem;*/
+/*}*/
+
+.nav>ul>a>li .news-right h5{
+    font-size: 0.12rem;
+    color: #898585;
+    text-indent: 2em;
+    padding-left: 0.05rem;
+}
+.nav>ul>a>li .news-right h4{
+    font-size: 0.12rem;
+    color: #898585;
+    text-indent: 2em;
+    color: #000;
+    box-sizing: border-box;
+    text-align: right;
+    margin-top: 0.1rem;
+}
+
+/*.nav>ul>a>li>h4{*/
+/*    font-size: 0.14rem;*/
+/*    position: absolute;*/
+/*    right: 4%;*/
+/*    bottom: 0;*/
+/*    color: #000;*/
+/*}*/
+
+
+
+.nav>ul>a>li>h4{
+    font-size: 0.14rem;
+    position: absolute;
+    right: 4%;
+    bottom: 0;
+    color: #000;
+}
+
+.nav>ul{
+    position: relative;
+    width: 100%;
+}
+/*.nav>ul>a{*/
+    /*position: absolute;*/
+    /*font-size: 0.18rem;*/
+    /*padding: 0.05rem 0.4rem 0.05rem 0.4rem;*/
+    /*text-align: center;*/
+    /*background: #0097ff;*/
+    /*left: 28%;*/
+    /*color: #fff;*/
+    /*border-radius: 0.1rem;*/
+/*}*/
+
+

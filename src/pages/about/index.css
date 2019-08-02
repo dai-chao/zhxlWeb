@@ -1,0 +1,106 @@
+/*
+* date:2019/6/25/15:30;
+* name:代超
+*
+* */
+.aboutBox{
+    width: 100%;
+    height: 10rem;
+    /*background: #fff;*/
+}
+.aboutBox p{
+    text-align: justify;
+    text-indent:0.3rem;
+}
+
+.abouts{
+    width: 100%;
+    /*background: #fff;*/
+    padding: 0rem 0.4rem 0rem 0.4rem;
+}
+.aboutBox>h2{
+    width: 100%;
+    text-align: center;
+    font-size: 0.16rem;
+    font-weight: bold;
+    margin-top: 0.2rem;
+    padding-left: 0;
+    animation-duration: 2s;
+    animation-delay: 0s;
+    margin-bottom: 0.2rem;
+
+}
+.aboutBox>p{
+    font-size: 0.15rem;
+    /*margin-top: 0.2rem;*/
+    animation-duration: 2s;
+    animation-delay: 0s;
+    margin-bottom: 0!important;
+
+}
+.abouts>h2{
+    width: 100%;
+    text-align: center;
+    font-size: 0.16rem;
+    margin-bottom: 0.2rem;
+    font-weight: bold;
+    animation-duration: 2s;
+    animation-delay: 0s;
+    padding-left: 0;
+}
+.abouts>img{
+    animation-duration: 2s;
+    animation-delay: 0s;
+    margin-bottom: 0.2rem;
+}
+.abouts>p{
+    font-size: 0.15rem;
+    /*margin-top: 0.2rem;*/
+    animation-duration: 2s;
+    animation-delay: 0s
+}
+.lian{
+    font-size:0.15rem ;
+}
+.aboutList{
+    width: 100%;
+    padding: 0rem 0.4rem 0rem 0.4rem;
+    margin-top: 0.15rem;
+}
+.aboutList>li{
+    margin-bottom: 0.05rem;
+    animation-duration: 2s;
+    animation-delay: 0s
+}
+.aboutList>li:nth-child(4){
+    margin-bottom: 0.2rem;
+}
+.aboutBox>.ab{
+    margin-top: 0.4rem;
+    width: 100%;
+    text-align: center;
+    padding-left: 0;
+}
+#about-h2{
+    margin-top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
